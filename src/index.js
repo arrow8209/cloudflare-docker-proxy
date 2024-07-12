@@ -17,7 +17,7 @@ const routes = {
   "ecr.zzz-family.com": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.zzz-family.com": dockerHub,
 };
 
 function routeByHosts(host) {
